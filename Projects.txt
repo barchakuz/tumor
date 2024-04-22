@@ -1,0 +1,7 @@
+Creative Commons project #4
+Modernize termination-of-transfer WordPress plugin
+Refactor CC meta search
+Improve Accessibility in JupyterHub
+Linux Kernel - 3 interns
+Implement a non-blocking, streaming codec for TopoJSON
+Public Lab project #1
